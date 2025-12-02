@@ -8,8 +8,8 @@ import type {
 import { LinkPreset } from "./types/config";
 
 export const siteConfig: SiteConfig = {
-	title: "子骥的小站",//网站标题
-	subtitle: "芝士与你分享！",//网站副标题
+	title: "子骥的小站", //网站标题
+	subtitle: "芝士与你分享！", //网站副标题
 	lang: "zh_CN", // 语言代码, 如'en', 'zh_CN', 'ja', etc.
 	themeColor: {
 		hue: 250, // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
